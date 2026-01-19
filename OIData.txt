@@ -1,4 +1,4 @@
-Gold (OG|GC) G3TF6 (1.60 DTE) vs 4666.3 (+70.9) - Open Interest
+Gold (OG|GC) G3TF6 (1.59 DTE) vs 4667.7 (+72.3) - Open Interest
 Strike,Put,Call,Vol Settle
 4520,63,5,0.1771114782168297
 4525,62,26,0.17590546742394508
@@ -60,3 +60,4 @@ Strike,Put,Call,Vol Settle
 4805,0,11,0
 4810,0,37,0
 4815,0,23,0
+4820,0,0,0
